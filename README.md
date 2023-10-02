@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, programming, music
 - 🌱 I’m currently learning full steack
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me telegram @pprosta_reyn
+- 📫 How to reach me telegram @prosta_reyn
 
 <!---
 MuhammadParmonov/MuhammadParmonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
